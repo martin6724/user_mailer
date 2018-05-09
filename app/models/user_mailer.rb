@@ -1,0 +1,2 @@
+class UserMailer < ApplicationRecord
+end
